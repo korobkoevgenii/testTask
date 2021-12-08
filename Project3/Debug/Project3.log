@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\vicuesoft\source\repos\project3\project3\main.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\vicuesoft\source\repos\Project3\Debug\testTask.exe
